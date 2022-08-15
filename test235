@@ -1,0 +1,4 @@
+mkdir Testa12
+cd Testa12
+
+echo "Created Directory !!"
